@@ -1,0 +1,11 @@
+folder('AKS'){}
+folder('AKS/OBLIGATORIAS'){}
+folder('AKS/OBLIGATORIAS/general'){}
+folder('AKS/OBLIGATORIAS/general/ns-obligatorias-general'){}
+folder('AKS/OBLIGATORIAS/general/ns-obligatorias-general/api-management'){}
+folder('AKS/OBLIGATORIAS/general/ns-obligatorias-general/java-cj-projects'){}
+folder('AKS/OBLIGATORIAS/general/ns-obligatorias-general/java-ms-projects'){}
+folder('AKS/OBLIGATORIAS/general/ns-obligatorias-general/util-kubernetes'){}
+folder('comunidad-digital-comercial'){}
+folder('comunidad-digital-comercial/java-projects'){}
+folder('comunidad-digital-comercial/react-mf-projects'){}
